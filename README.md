@@ -2,6 +2,10 @@
 
 ## About
 
+This portfolio highlights my work related to web development. 
+
+Inspiration taken from Sara McCombs (https://github.com/saramccombs/saramccombs.github.io) 
+
 ## Copyright and License
 
 Bootstrap Freelancer portfolio theme:
